@@ -18,7 +18,7 @@ Currently working on game development projects and building my own portfolio web
 - 📫 How to reach me:
 
 Email: rahmantahiba17@gmail.com, tr6823@rit.edu
-Linkedln: rahman-tahiba
+Linkedln: tahiba-rahman
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rahmantahiba&count_private=true&show_icons=true&theme=radical)
 
