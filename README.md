@@ -1,17 +1,18 @@
-- 👋 Hi, I’m @rahmantahiba (Tahiba Rahman) a beginner but determined about programming. I'm currently studying at Rochester Institute of Technology searching for a summer internship. My code is public to show others my learning process and the small steps taken to work on my projects. 
+- 👋 Hi, I’m @rahmantahiba (Tahiba Rahman), determined and passionate to innovate. My code is public to show others my learning process and the small steps taken to work on my projects. 
 
-- 👀 I’m interested in expanding my horizons and continue my innovations by learning various programming languages. I'm hoping to work in a professional environment to offer my skills and the process of learning never stops!
+- 👀 I’m interested in expanding my horizons and continuing my innovations by learning various programming languages. I'm hoping to work in a professional environment to offer my skills, and the process of learning never stops!
 
-- 🌱 I’m currently learning:
+- 🌱 My goal is to continue advancing in:
 
 --> HTML
 --> CSS
 --> SQL 
 --> C/C++
+--> More to come! 
 
-Currently working on game development projects and building my own portfolio website!
+Currently working on game development projects. I hope to improve my web development abilities to build my portfolio website.
 
-- 💞️ Fun fact: I made an entire presentation about how important collaboration is in development for my final project. I don't get many opportunities to learn alongside others often but I look forward to collaboration.
+- 💞️ Fun fact: I made an entire presentation about how important collaboration is in development for my final project. I rarely get many opportunities to learn alongside others, but I look forward to collaboration.
 
 --> Collaboration + Diverse Skillsets = Innovation! 
 
