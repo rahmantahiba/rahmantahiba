@@ -12,8 +12,8 @@
 
 Currently working on game development projects. I hope to improve my web development abilities to build my portfolio website.
 
-- 💞️ Fun fact: I made an entire presentation about how important collaboration is in development for my final project. I rarely get many opportunities to learn alongside others, but I look forward to collaboration.
-
+- 💞️ Fun fact: I made an entire presentation on the importance of collaboration in technological projects for my final project since I'm passionate about sharing my expertise. I look forward to learning alongside others.
+  
 --> Collaboration + Diverse Skillsets = Innovation! 
 
 - 📫 How to reach me:
