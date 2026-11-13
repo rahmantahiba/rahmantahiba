@@ -35,6 +35,8 @@ Whether I'm analyzing barriers to healthcare accessibility, improving developmen
 - **Email:** <u>tahiba.rahman.career@gmail.com<u>
 - **Linkedln:** <u>https://www.linkedin.com/in/tahiba-rahman/<u>
 
-![Tahiba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahmantahiba&show_icons=true&theme=radical)
+### Git Statistics ###
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmantahiba&layout=compact&theme=radical)
+![Tahiba's GitHub Stats](./profile/stats.svg)
+
+![Top Languages](./profile/top-langs.svg)
