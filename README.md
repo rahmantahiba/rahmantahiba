@@ -6,7 +6,7 @@ I'm a Management Information Systems graduate from Rochester Institute of Techno
 
 My interests lie at the intersection of Business Analysis, Product Development, and Technology, where I enjoy translating complex problems into practical, user-centered solutions.
 
-### What I'm Working On ###
+## What I'm Working On ##
 
 **Independent Game Development:** Leading product planning and business analysis for a narrative-driven video game, including requirements documentation, workflow optimization, and user experience considerations.
 
@@ -14,7 +14,7 @@ My interests lie at the intersection of Business Analysis, Product Development, 
 
 **Professional Development:** Expanding my knowledge of cloud computing, business process improvement, and software development.
 
-Technical Skills
+### Technical Skills ###
 
 **Programming & Development:** Python, SQL, HTML, CSS, JavaScript, TypeScript (Learning)
 
@@ -24,18 +24,18 @@ Technical Skills
 
 **Currently Exploring:** Next.js, React, AWS Cloud Computing
 
-### My Approach ###
+## My Approach ##
 
 I believe effective technology starts with understanding the people and problems behind it.
 
 Whether I'm analyzing barriers to healthcare accessibility, improving development workflows, or designing digital experiences, I enjoy exploring the bigger picture and finding opportunities to make systems more effective and accessible.
 
-### Let's Connect ###
+## Let's Connect ##
 
 - **Email:** <u>tahiba.rahman.career@gmail.com<u>
 - **Linkedln:** <u>https://www.linkedin.com/in/tahiba-rahman/<u>
 
-### Git Statistics ###
+## Git Statistics ##
 
 ![Tahiba's GitHub Stats](./profile/stats.svg)
 
