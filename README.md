@@ -30,6 +30,11 @@ I believe effective technology starts with understanding the people and problems
 
 Whether I'm analyzing barriers to healthcare accessibility, improving development workflows, or designing digital experiences, I enjoy exploring the bigger picture and finding opportunities to make systems more effective and accessible.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=rahmantahiba&count_private=true&show_icons=true&theme=radical)
+### Let's Connect ###
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RAHMANTAHIBA&show_icons=true&theme=radical)
+- **Email:** <u>tahiba.rahman.career@gmail.com<u>
+- **Linkedln:** <u>https://www.linkedin.com/in/tahiba-rahman/<u>
+
+![Tahiba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahmantahiba&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmantahiba&layout=compact&theme=radical)
